@@ -1,0 +1,24 @@
+{
+  "name": "registerusers-api",
+  "version": "1.0.0",
+  "description": "API de registro de usuários desenvolvida com Node.js, criada com o objetivo de explorar, aprender e aplicar novas tecnologias ao longo do desenvolvimento. Este projeto serve como uma base prática para estudo e testes de boas práticas, ferramentas modernas e padrões de desenvolvimento backend.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyhago/registerUsers-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yyhago/registerUsers-api/issues"
+  },
+  "homepage": "https://github.com/yyhago/registerUsers-api#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
